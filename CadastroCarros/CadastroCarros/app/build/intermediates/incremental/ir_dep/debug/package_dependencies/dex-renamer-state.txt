@@ -1,0 +1,4 @@
+#Thu Mar 21 13:38:59 BRT 2019
+base.0=/home/roberto/Documentos/UFPB/2018.2/Tópicos_Especiais_Engenharia_Software_Android/Primeira_Nota/Exercicios_praticos_para_entrega/CadastroCarros_Glauber/CadastroCarros/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
